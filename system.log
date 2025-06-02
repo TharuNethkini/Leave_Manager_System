@@ -1,0 +1,54 @@
+[2025-06-02 15:12:20] Admin added new employee Menasha.
+[2025-06-02 15:12:45] Admin added holiday 2025-10-16.
+[2025-06-02 15:23:10] Admin denied 5 Annual Leave leave(s) for Tharushi starting 2025-06-10.
+[2025-06-02 15:24:57] Admin denied 1 Sick Leave leave(s) for Tharushi starting 2025-06-03.
+[2025-06-02 15:30:56] Admin added new employee Maneesha.
+[2025-06-02 15:33:57] Admin added new employee Chathumi.
+[2025-06-02 15:37:57] Admin added new employee Raveen.
+[2025-06-02 15:42:59] Admin edited employee Tharushi.
+[2025-06-02 15:46:07] Admin edited employee Tharushi.
+[2025-06-02 15:48:08] Admin edited employee Raveen.
+[2025-06-02 15:48:20] Admin added holiday 2025-06-07.
+[2025-06-02 16:02:12] Chathumi requested 5 Sick Leave leave(s) from 2025-06-03. Pending approval.
+[2025-06-02 16:06:27] Raveen requested 5 Annual Leave leave(s) from 2025-07-20. Pending approval.
+[2025-06-02 16:08:07] Tharushi requested 4 Annual Leave leave(s) from 2025-06-04. Pending approval.
+[2025-06-02 16:08:53] Tharushi requested 3 Sick Leave leave(s) from 2025-06-02. Pending approval.
+[2025-06-02 16:09:33] Tharushi requested 2 Sick Leave leave(s) from 2025-06-20. Pending approval.
+[2025-06-02 16:12:28] Admin deleted employee Maneesha and all their records.
+[2025-06-02 16:15:07] Tharushi requested 2 Sick Leave leave(s) from 2025-06-03. Pending approval.
+[2025-06-02 16:19:16] Tharushi cancelled a leave request.
+[2025-06-02 16:28:08] Tharushi cancelled a leave request for Sick Leave starting on 2025-06-03.
+[2025-06-02 16:29:58] Tharushi requested 3 Sick Leave leave(s) from 2025-06-09. Pending approval.
+[2025-06-02 16:30:09] Tharushi requested 5 Annual Leave leave(s) from 2025-06-10. Pending approval.
+[2025-06-02 16:33:20] Tharushi cancelled a leave request for Annual Leave starting on 2025-06-10.
+[2025-06-02 16:34:32] Tharushi cancelled a leave request for Annual Leave starting on 2025-06-04.
+[2025-06-02 16:38:39] Admin approved 3 Sick Leave leave(s) for Tharushi starting 2025-06-02.
+[2025-06-02 16:38:59] Admin denied 2 Sick Leave leave(s) for Tharushi starting 2025-06-20.
+[2025-06-02 16:39:10] Admin approved 3 Sick Leave leave(s) for Tharushi starting 2025-06-09.
+[2025-06-02 16:39:37] Admin added new employee Dishna.
+[2025-06-02 16:39:37] Admin added employee Dishna (Manager: False) with leave balances {'Sick Leave': 10, 'Annual Leave': 4, 'Maternity Leave': 18}.
+[2025-06-02 16:39:53] Admin edited employee Viduni.
+[2025-06-02 16:39:53] Admin edited employee Viduni with leave balances {'Sick Leave': 7, 'Annual Leave': 8, 'Maternity Leave': 0}. Manager status: False.
+[2025-06-02 16:40:11] Admin edited employee Dishna.
+[2025-06-02 16:40:11] Admin edited employee Dishna with leave balances {'Sick Leave': 10, 'Annual Leave': 4, 'Maternity Leave': 18}. Manager status: True.
+[2025-06-02 16:40:35] Admin added new employee Ravindu.
+[2025-06-02 16:40:35] Admin added employee Ravindu (Manager: True) with leave balances {'Sick Leave': 30, 'Annual Leave': 22, 'Maternity Leave': 2}.
+[2025-06-02 16:40:52] Admin edited employee Ravindu.
+[2025-06-02 16:40:52] Admin edited employee Ravindu with leave balances {'Sick Leave': 30, 'Annual Leave': 22, 'Maternity Leave': 33}. Manager status: False.
+[2025-06-02 16:41:00] Admin deleted employee Ravindu and all their records.
+[2025-06-02 16:41:07] Admin added holiday 20022222.
+[2025-06-02 16:41:07] Admin added holiday on 20022222.
+[2025-06-02 16:45:18] Admin added holiday 2025-09-08.
+[2025-06-02 16:45:18] Admin added holiday on 2025-09-08.
+[2025-06-02 16:45:48] Admin added holiday 2025-12-31.
+[2025-06-02 16:45:48] Admin added holiday on 2025-12-31.
+[2025-06-02 16:48:26] Admin cleared all holidays.
+[2025-06-02 16:48:31] Admin cleared all holidays.
+[2025-06-02 16:51:04] Admin added holiday 2025-10-31.
+[2025-06-02 16:51:04] Admin added holiday on 2025-10-31.
+[2025-06-02 16:51:27] Admin added holiday 2025-07-20.
+[2025-06-02 16:51:27] Admin added holiday on 2025-07-20.
+[2025-06-02 16:51:55] Admin approved 5 Annual Leave leave(s) for Raveen starting 2025-07-20.
+[2025-06-02 16:52:02] Admin denied 5 Sick Leave leave(s) for Chathumi starting 2025-06-03.
+[2025-06-02 19:18:18] Admin added holiday 2025-09-12.
+[2025-06-02 19:18:18] Admin added holiday on 2025-09-12.
